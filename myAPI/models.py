@@ -12,3 +12,4 @@ class Barang(models.Model):
         return self.name_barang
 
     
+# class Penjualan(models.Model):
